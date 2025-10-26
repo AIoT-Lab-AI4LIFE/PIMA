@@ -5,6 +5,10 @@ Trung Thanh Nguyen, Hoang Dang Nguyen, Thanh Hung Nguyen, Huy Hieu Pham, Ichiro 
 
 Full paper is available [here](https://github.com/AIoT-Lab-BKAI/PIMA/tree/main/paper).
 
+Journal version: Trung Thanh Nguyen, Phi Le Nguyen, Yasutomo Kawanishi, Takahiro Komamizu, and Ichiro Ide, "Zero-shot Pill-prescription Matching with Graph Convolutional Network and Contrastive Learning," IEEE Access (IF: 3.9)
+
+[Open Access](https://ieeexplore.ieee.org/document/10504270)
+
 ---
 Environment setting using [Anaconda](https://www.anaconda.com/).
 
